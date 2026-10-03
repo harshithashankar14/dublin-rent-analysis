@@ -4,7 +4,7 @@ How have Dublin rents changed since 2007, which areas cost the most, what could 
 
 ## Data
 Residential Tenancies Board (RTB) Average Monthly Rent Report, table RIQ02, published by the Central Statistics Office (CSO) under CC BY 4.0, accessed via [DBnomics](https://db.nomics.world/CSO/RIQ02).
-- 7,014 Dublin series (by area, bedrooms and property type), about 512,000 recordshttps://github.com/harshithashankar14/Dublin_rent_analysis/tree/main
+- 7,014 Dublin series (by area, bedrooms and property type), about 512,000 records
 - Quarterly, 2007-Q4 to 2025-Q4
 - District-level (Dublin 1-24) data ends in 2021; only the Dublin-wide series runs to 2025
 - Values are nominal euros per month (not adjusted for inflation)
